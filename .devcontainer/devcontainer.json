@@ -1,0 +1,6 @@
+{
+  "name": "HCCC",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}
